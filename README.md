@@ -21,7 +21,8 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 | :--- | :--- | :--- |
 | Q.1 | ***Swap*** two numbers | ✅ Done |
 | Q.2 | Add 2 ***complex*** numbers | ✅ Done |
-| Q.3 | Coming Soon... | ⏳ Pending |
+| Q.3 | convert ***char case without built-in functions*** and number to **ASCII** | ✅ Done |
+| Q.4 | Coming Soon... | ⏳ Pending |
 
 ---
 
