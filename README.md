@@ -1,4 +1,4 @@
-# 🐍 Python Daily Challenges 🚀
+# <img src="https://skillicons.dev/icons?i=python" height="40"/> Python Daily Challenges 🚀
 
 Welcome to my **Python revision journey!** In this repository, I am documenting ***daily logic-building*** questions and their solutions from my entire ***Full-Stack Python course***.
 
@@ -20,3 +20,8 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 
 ## ✍️ Learning from
 I am solving these challenges by following **my professional training course** and **supplementary tutorials from YouTube** to strengthen my logic and practical skills.
+
+---
+
+**Start Date:** 9 April, Thursday 2026  
+**End Date:** Ongoing (Learning never stops! 🚀)
