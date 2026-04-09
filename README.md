@@ -9,6 +9,12 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 - **Language:** Python 
 - **Focus:** Logic Building, Algorithms, and Problem Solving
 
+---
+
+## If you find these logic-building challenges helpful, feel free to ⭐ this repository!
+
+---
+
 ## 📈 Course Progress Tracker
 
 | Day | Question / Challenge | Status |
