@@ -14,7 +14,8 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 | Day | Question / Challenge | Status |
 | :--- | :--- | :--- |
 | Q.1 | Swap two numbers | ✅ Done |
-| Q.2 | Coming Soon... | ⏳ Pending |
+| Q.2 | Add complex numbers | ✅ Done |
+| Q.3 | Coming Soon... | ⏳ Pending |
 
 ---
 
