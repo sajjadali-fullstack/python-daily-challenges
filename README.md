@@ -25,7 +25,9 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 | Q.4 | ***eval() built-in function*** | ✅ Done |
 | Q.5 | ***find area of rectangle***😉 | ✅ Done |
 | Q.6 | ***find simple interest***🤑 | ✅ Done |
-| Q.7 | Coming Soon... | ⏳ Pending |
+| Q.7 | ***calculate total average*** | ✅ Done |
+| Q.8 | ***HackerRank*** arithmetic operation Problem 1 | ✅ Done |
+| Q.9 | Coming Soon... | ⏳ Pending |
 
 ---
 
