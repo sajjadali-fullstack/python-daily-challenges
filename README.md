@@ -22,7 +22,10 @@ My goal is to write **clean, maintainable code** and master Python's core & adva
 | Q.1 | ***Swap*** two numbers | ✅ Done |
 | Q.2 | Add 2 ***complex*** numbers | ✅ Done |
 | Q.3 | convert ***char case without built-in functions*** and number to **ASCII** | ✅ Done |
-| Q.4 | Coming Soon... | ⏳ Pending |
+| Q.4 | ***eval() built-in function*** | ✅ Done |
+| Q.5 | ***find area of rectangle***😉 | ✅ Done |
+| Q.6 | ***find simple interest***🤑 | ✅ Done |
+| Q.7 | Coming Soon... | ⏳ Pending |
 
 ---
 
